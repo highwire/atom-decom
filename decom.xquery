@@ -7,6 +7,9 @@ declare variable $dry-run as xs:boolean := true();
 declare variable $directory as xs:string := concat('/',$corpus,'/');
 declare variable $corpus-atom as xs:string := concat('/',$corpus,'.atom');
 
+if ($corpus eq '') 
+then error(xs:QName('bad-corpus'),'corpus must not be nil')
+else (),
 xdmp:set-request-time-limit(3600),
 <report xml:base="{$server}" at="{current-dateTime()}" xmlns:hw="org.highwire.hpp">{
 for $f in (
