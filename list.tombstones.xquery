@@ -12,7 +12,7 @@ for $f in (
   doc($corpus-atom)/hw:doc[hw:resource-meta[@status eq 'deleted']]
 )
 let $uri := base-uri($f)
-order by $uri
+order by string-length($uri) descending
 return
  <tombstone href="{$uri}"/>
 
