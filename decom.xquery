@@ -7,6 +7,7 @@ declare variable $dry-run as xs:boolean := true();
 declare variable $directory as xs:string := concat('/',$corpus,'/');
 declare variable $corpus-atom as xs:string := concat('/',$corpus,'.atom');
 
+xdmp:set-request-time-limit(3600),
 <report xml:base="{$server}" at="{current-dateTime()}" xmlns:hw="org.highwire.hpp">{
 for $f in (
   xdmp:directory($directory,'infinity')/hw:doc[hw:resource-meta[not(@status eq 'deleted')]],
