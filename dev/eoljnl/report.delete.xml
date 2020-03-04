@@ -1,0 +1,1482 @@
+<report xml:base="http://atom-dev.highwire.org" at="2020-03-04T12:02:10.310305-08:00" xmlns:hw="org.highwire.hpp">
+  <!-- This took about 28s to run -->
+  <node href="/eoljnl/new/current.d88a2909a31827e5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T16:04:21.233498-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/new/recent.4112b07a34cda0e1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-20T12:16:23.494309-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/new/open.d88a2909a31827e5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T16:04:21.325988-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/property/link/Commentary.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-01-12T02:52:12.085439-08:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/property/link/rev_errata.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-01-12T02:52:12.227993-08:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/property/link/related.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-01-12T02:52:12.285563-08:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T11.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:14.288456-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T10.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:14.160236-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.5/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:10.886209-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900003.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:51.213035-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.2/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:49.962654-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T9.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:14.052974-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:22.147371-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:06.268848-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1/T6.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:19.149377-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/property/link/errata.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-01-12T02:52:12.0566-08:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.6/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:38.745306-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.8/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:18.93732-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900004.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:52.650797-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900003.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:51.651105-07:00" updated="2015-03-19T16:05:53.896881-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.507122-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.6/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:08.207158-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T6.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:20.80405-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:18.495574-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:17.159511-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.7/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:01.57594-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.1/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:02.337625-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:28.459037-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:42.337407-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:05.481314-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.7/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:08.777559-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3/T6.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:22.710952-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.1/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:10.973596-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T5.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:06.871515-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:20.090494-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.8/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:22.731118-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:03.909481-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.5/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:10.774031-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T8.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.933606-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:21.993979-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900006.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:54.309336-07:00" updated="2015-03-19T16:06:16.570886-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1/T5.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:18.997882-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.5/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:15.96234-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.6/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:38.608611-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4/T5.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:43.148755-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:17.569963-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900002.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:50.388342-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.377813-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.4/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:23.613438-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T9.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:07.456946-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T5.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:20.672597-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:17.022567-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.7/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:01.401025-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.1/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:02.19594-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:28.345028-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900003.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:51.74093-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900002.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:50.92952-07:00" updated="2015-03-19T16:05:46.971208-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.2/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:50.322083-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:05.342282-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.5/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:24.41441-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3/T5.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:22.575281-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.1/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:10.835607-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:06.728068-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.8/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:22.611396-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:03.765963-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T7.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.832148-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900005.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:52.865248-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T9.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:21.264127-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:18.86249-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:42.943273-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:17.295508-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.6/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:08.068664-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900006.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:54.368987-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.277565-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900005.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:53.621592-07:00" updated="2015-03-19T16:06:10.041076-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T8.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:07.314646-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:20.542565-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:42.220754-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.1/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:02.056545-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900001.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:49.312317-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.2/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:50.196487-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.4/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:15.413176-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:22.428527-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.1/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:10.704261-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:06.583103-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:03.624708-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.6/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:39.137013-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900002.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:51.012242-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900001.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:49.975702-07:00" updated="2015-03-19T16:05:39.786126-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T6.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.731194-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T8.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:21.11225-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:18.727023-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:42.662575-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:16.879607-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900004.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:51.951255-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.147372-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T7.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:07.168679-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:20.392346-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.8/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:23.114793-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.1/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:01.91159-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900005.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:53.864278-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.2/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:50.075551-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.4/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:15.123412-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900004.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:52.510699-07:00" updated="2015-03-19T16:06:01.687052-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:22.286284-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:06.435659-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1/T7.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:19.28667-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:03.473868-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.6/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:38.952153-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T5.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.630187-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T7.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:20.952426-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:18.596407-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/F3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:17.433061-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.7/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:01.836321-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900001.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:50.132472-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:42.473602-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:16.740696-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:28.573787-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T6.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:07.026347-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:20.235047-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.8/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:22.919212-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2/T5.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:04.053889-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900003.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:51.496321-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900004.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:52.30215-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900001.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:49.629562-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900005.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:53.428596-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900002.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:50.704215-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900006.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:54.232797-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.5.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:24.152001-07:00" updated="2015-03-18T16:46:06.782577-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:06.091763-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.6.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:37.944435-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:05.069098-07:00" updated="2015-03-18T16:39:35.279131-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:17.740855-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.5.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:15.539798-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.7.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:00.905565-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:14.224102-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.6.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:38.325009-07:00" updated="2015-06-05T11:46:09.479789-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:19.85448-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:18.194764-07:00" updated="2015-03-18T16:45:33.073881-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:16.544504-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.5.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:15.719697-07:00" updated="2015-03-18T16:39:57.464205-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900002.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:50.495431-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.1.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:01.663336-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.2.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:49.299182-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.1.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:09.961059-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.5/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.176544-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.7.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:08.528902-07:00" updated="2015-03-18T16:40:11.251133-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.3.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:12.500574-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.4.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:22.863418-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.2.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:49.640235-07:00" updated="2015-06-05T11:45:50.405247-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.593287-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.2.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:11.470758-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.1.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:10.41026-07:00" updated="2015-03-18T16:39:24.231459-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.5.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:24.231587-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.4.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:23.270518-07:00" updated="2015-03-18T16:45:59.109362-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900001.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:49.42073-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.8.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:18.714812-07:00" updated="2015-03-18T16:40:19.807701-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:05.151872-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.5.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:10.200046-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.3.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:04.451251-07:00" updated="2015-03-18T16:39:41.234735-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.4.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:14.415992-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.6.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:38.432034-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.5.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:10.487556-07:00" updated="2015-06-05T11:46:05.048376-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:18.31784-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.5.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:15.787291-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:14.382887-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.4.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:14.773194-07:00" updated="2015-03-18T16:39:49.499908-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:27.436867-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.7.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:08.59676-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.8.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:21.945602-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.6.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:07.809647-07:00" updated="2015-03-18T16:39:48.567389-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.2.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:49.789581-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:21.444566-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:27.878247-07:00" updated="2015-06-05T11:45:45.31543-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.7.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:17.722732-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900006.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:54.161372-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.1.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:10.512092-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:02.498994-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.6/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:14.792315-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/F3.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.736947-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.8.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:22.213471-07:00" updated="2015-06-05T11:46:18.381286-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.4.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:23.390224-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:01.288023-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:21.74484-07:00" updated="2015-03-18T16:45:41.422985-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.8.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:18.777928-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.7.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:18.165684-07:00" updated="2015-03-18T16:40:13.270215-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.3.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:04.537834-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:41.660946-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:03.051859-07:00" updated="2015-03-18T16:39:57.120203-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:11.659317-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.5.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:10.626059-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:41.940813-07:00" updated="2015-06-05T11:45:59.806137-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900005.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:52.995255-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.4.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:14.891158-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:05.633544-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:12.54147-07:00" updated="2015-03-18T16:39:40.686115-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:02.166079-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.6.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:07.891633-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:06.007267-07:00" updated="2015-03-18T16:40:04.705741-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:28.131863-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:19.395907-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:16.124202-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.1.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:00.912025-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.8.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:22.281256-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900004.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:52.067412-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.7.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:00.736012-07:00" updated="2015-06-05T11:46:13.913571-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:21.820349-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:19.733767-07:00" updated="2015-03-18T16:45:50.148793-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.7.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:18.314063-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:16.451227-07:00" updated="2015-03-18T16:40:05.491428-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:03.22924-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:01.458866-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.1.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:01.480586-07:00" updated="2015-03-18T16:39:28.320824-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.2.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:11.114028-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.44783-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:42.063735-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.5.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:23.771823-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.3.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:12.440949-07:00" updated="2015-06-05T11:45:54.921476-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:12.84785-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:04.729797-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.2.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:11.386536-07:00" updated="2015-03-18T16:39:30.490071-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900003.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:51.303589-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.409714-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.5/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.217026-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900004.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:59.436534-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:02.101665-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.6/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:14.833025-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:14.340317-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.632995-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:01.424659-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900005.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:59.562905-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:14.182901-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.488037-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:01.219016-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:02.226948-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900006.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:59.701474-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:14.42333-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:01.491306-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:14.265358-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:01.328479-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900001.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:59.051087-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/F3.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.699071-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.5/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.138674-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900002.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:59.178391-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.6/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:14.750661-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.554743-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900003.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:59.305812-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/F3.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.777546-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:04.943791-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.8.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:18.641804-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.1.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:01.256972-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.5.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:15.650182-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.2.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:11.282458-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:21.625296-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.7.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:00.629381-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:41.823239-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.8.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:09.012051-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:27.695701-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:05.858229-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.9.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:19.152672-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:02.81516-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:16.327129-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:12.161708-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/property/link.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-01-12T02:52:06.628682-08:00" updated="2015-01-12T02:52:12.285563-08:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.4.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:23.111681-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.8.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:22.125418-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:18.042528-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.5.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:10.364319-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.2.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:49.505643-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.6.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:07.715873-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.3.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:04.34501-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.7.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:18.000097-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.4.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:14.64704-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.5.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:24.027581-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.9.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:43.956921-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.1.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:10.251588-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:19.610679-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.6.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:38.20633-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.3.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:12.37316-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.7.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:08.447162-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.9.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:43.737086-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:16.203686-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:04.810254-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.2.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:49.374486-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.8.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:22.007587-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.5.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:15.587949-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.3.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:04.229065-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:27.523738-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.7.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:00.565028-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.5.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:23.875819-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.4.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:14.480316-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:02.599897-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.8.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:08.939046-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.6.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:38.079078-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.4.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:22.951713-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:11.789558-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.1.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:01.020864-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.9.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:19.087113-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.7.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:08.367497-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.5.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:10.259522-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:21.521077-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.2.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:11.18346-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.8.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:18.564471-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.6.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:07.623931-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:41.719828-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:19.458045-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.1.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:10.053985-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.7.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:17.813035-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:05.712482-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.3.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:12.302031-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:17.835195-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:14.087981-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.6.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:02.603834-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:23.820053-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1.manifest.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:09.76074-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:14.521975-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:28.204597-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.7.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:02.701356-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900001.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:49.192643-07:00" updated="2015-03-19T16:05:39.786126-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.4.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:23.936649-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1.manifest.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:49.138948-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.6.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:14.648788-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:28.332176-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.8.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:02.796842-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900002.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:50.272903-07:00" updated="2015-03-19T16:05:46.971208-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.5.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.051003-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T10.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:14.087261-07:00" updated="2015-03-18T16:37:11.81083-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:01.094928-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.7.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:14.931695-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:28.468721-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1.manifest.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:17.602853-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.9.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:02.917315-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900003.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:51.097019-07:00" updated="2015-03-19T16:05:53.896881-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.312877-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T11.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:14.205889-07:00" updated="2015-03-18T16:37:12.004306-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.2.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:01.6621-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.8.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:15.056863-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.4.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:28.594026-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.1.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:13.726424-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900004.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:51.834981-07:00" updated="2015-03-19T16:06:01.687052-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.7.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.871018-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.3.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:01.833101-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1.manifest.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:40:42.563811-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.5.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:28.721896-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:13.85297-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900005.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:52.768246-07:00" updated="2015-03-19T16:06:10.041076-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.8.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:24.987363-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:01.987984-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.1.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:23.58986-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.3.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:13.969552-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1/e900006.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:54.078308-07:00" updated="2015-03-19T16:06:16.570886-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1.manifest.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:00.741232-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.9.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:25.100509-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.5.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:39:02.443412-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.2.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:23.706292-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.1/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:02.240749-07:00" updated="2015-03-18T16:37:47.062909-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:16.923894-07:00" updated="2015-03-18T16:37:13.833621-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.1/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:10.747806-07:00" updated="2015-03-18T16:37:09.301648-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.6/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:38.520288-07:00" updated="2015-06-05T11:44:42.647068-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.310922-07:00" updated="2015-03-18T16:37:10.616913-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.8/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:22.65318-07:00" updated="2015-06-05T11:44:45.126977-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T6.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:06.92072-07:00" updated="2015-03-18T16:37:51.129463-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:18.430378-07:00" updated="2015-03-18T16:43:48.721167-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:22.049107-07:00" updated="2015-03-18T16:43:50.362719-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T9.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:21.16476-07:00" updated="2015-03-18T16:43:52.790949-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.5/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:15.86165-07:00" updated="2015-03-18T16:37:13.014322-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.5/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:10.705769-07:00" updated="2015-06-05T11:44:42.248342-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2/T5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:03.956821-07:00" updated="2015-03-18T16:37:49.546972-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.7/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:01.456343-07:00" updated="2015-06-05T11:44:44.634882-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:20.138131-07:00" updated="2015-03-18T16:43:51.593709-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:42.264277-07:00" updated="2015-06-05T11:44:41.384334-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:17.066112-07:00" updated="2015-03-18T16:37:14.013875-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.1/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:10.88331-07:00" updated="2015-03-18T16:37:09.531562-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.6/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:38.658052-07:00" updated="2015-06-05T11:44:42.767792-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.40968-07:00" updated="2015-03-18T16:37:10.80206-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.8/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:22.772651-07:00" updated="2015-06-05T11:44:45.242659-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T7.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:07.072692-07:00" updated="2015-03-18T16:37:51.3014-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:18.526273-07:00" updated="2015-03-18T16:43:48.887176-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:22.188983-07:00" updated="2015-03-18T16:43:50.53575-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.5/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:10.813038-07:00" updated="2015-06-05T11:44:42.374031-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.7/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:01.65066-07:00" updated="2015-06-05T11:44:44.74208-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.7/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:08.668963-07:00" updated="2015-03-18T16:37:52.080687-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:20.288889-07:00" updated="2015-03-18T16:43:51.780168-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.2/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:49.888078-07:00" updated="2015-06-05T11:44:40.549829-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:42.402352-07:00" updated="2015-06-05T11:44:41.495339-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/F3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:17.338466-07:00" updated="2015-03-18T16:37:14.424355-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.6/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:38.809395-07:00" updated="2015-06-05T11:44:43.006533-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.6/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:08.112779-07:00" updated="2015-03-18T16:37:48.395729-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.555805-07:00" updated="2015-03-18T16:37:10.988628-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.8/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:22.993416-07:00" updated="2015-06-05T11:44:45.35955-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T8.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:07.216586-07:00" updated="2015-03-18T16:37:51.483202-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:18.630862-07:00" updated="2015-03-18T16:43:49.067564-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:28.500707-07:00" updated="2015-06-05T11:44:40.289456-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:22.332779-07:00" updated="2015-03-18T16:43:50.718091-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:06.175359-07:00" updated="2015-03-18T16:37:50.216555-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:20.43841-07:00" updated="2015-03-18T16:43:51.987663-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.2/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:50.005266-07:00" updated="2015-06-05T11:44:40.673684-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:42.52256-07:00" updated="2015-06-05T11:44:41.600377-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.6/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:39.018138-07:00" updated="2015-06-05T11:44:43.496108-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T6.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.662251-07:00" updated="2015-03-18T16:37:11.143312-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T9.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:07.359995-07:00" updated="2015-03-18T16:37:51.664032-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:18.770816-07:00" updated="2015-03-18T16:43:49.230464-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.8/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:18.842446-07:00" updated="2015-03-18T16:37:15.251705-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3/T5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:22.473072-07:00" updated="2015-03-18T16:43:50.916219-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:06.331311-07:00" updated="2015-03-18T16:37:50.391453-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:20.584545-07:00" updated="2015-03-18T16:43:52.130197-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.2/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:50.123502-07:00" updated="2015-06-05T11:44:40.77413-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:03.377608-07:00" updated="2015-03-18T16:37:48.816858-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:42.740694-07:00" updated="2015-06-05T11:44:41.743492-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T7.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.763576-07:00" updated="2015-03-18T16:37:11.312601-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:16.637704-07:00" updated="2015-03-18T16:37:13.462776-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:42.150336-07:00" updated="2015-06-05T11:44:41.266945-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1/T5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:18.905391-07:00" updated="2015-03-18T16:43:49.392435-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3/T6.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:22.617182-07:00" updated="2015-03-18T16:43:51.104675-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.1/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:01.806339-07:00" updated="2015-03-18T16:37:46.600553-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:06.48444-07:00" updated="2015-03-18T16:37:50.589269-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T6.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:20.713834-07:00" updated="2015-03-18T16:43:52.296664-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.2/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:50.239451-07:00" updated="2015-06-05T11:44:40.876526-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:03.517527-07:00" updated="2015-03-18T16:37:48.990635-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4/T5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:43.05019-07:00" updated="2015-06-05T11:44:41.855053-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.4/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:15.031138-07:00" updated="2015-03-18T16:37:12.422907-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T8.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.864817-07:00" updated="2015-03-18T16:37:11.473774-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:16.784506-07:00" updated="2015-03-18T16:37:13.634691-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1/T6.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:19.043734-07:00" updated="2015-03-18T16:43:49.563863-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.6/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:07.969886-07:00" updated="2015-03-18T16:37:48.218484-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.1/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:01.959061-07:00" updated="2015-03-18T16:37:46.776578-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.072421-07:00" updated="2015-03-18T16:37:10.221427-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:28.270223-07:00" updated="2015-06-05T11:44:40.089057-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:06.630837-07:00" updated="2015-03-18T16:37:50.775571-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T7.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:20.848721-07:00" updated="2015-03-18T16:43:52.49335-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.5/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:24.317618-07:00" updated="2015-03-18T16:43:53.568988-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:03.671746-07:00" updated="2015-03-18T16:37:49.184268-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.4/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:15.24847-07:00" updated="2015-03-18T16:37:12.615078-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T9.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.976083-07:00" updated="2015-03-18T16:37:11.626828-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:17.202688-07:00" updated="2015-03-18T16:37:14.214202-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:05.244969-07:00" updated="2015-03-18T16:37:47.440844-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1/T7.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:19.203864-07:00" updated="2015-03-18T16:43:49.758036-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.4/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:23.516681-07:00" updated="2015-03-18T16:43:53.191659-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.1/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:02.102455-07:00" updated="2015-03-18T16:37:46.922617-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.1/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:10.61433-07:00" updated="2015-03-18T16:37:09.096685-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:13.192233-07:00" updated="2015-03-18T16:37:10.452658-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.8/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:22.41443-07:00" updated="2015-06-05T11:44:45.007526-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:28.386244-07:00" updated="2015-06-05T11:44:40.191777-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5/T5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:06.775454-07:00" updated="2015-03-18T16:37:50.95602-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:21.898286-07:00" updated="2015-03-18T16:43:50.19014-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T8.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:21.001969-07:00" updated="2015-03-18T16:43:52.647053-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:03.813119-07:00" updated="2015-03-18T16:37:49.367684-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.7/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:01.036289-07:00" updated="2015-06-05T11:44:44.522938-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:19.98219-07:00" updated="2015-03-18T16:43:51.445939-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:17.477058-07:00" updated="2015-03-18T16:37:14.58591-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:05.387355-07:00" updated="2015-03-18T16:37:47.62334-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:14.320118-07:00" updated="2015-03-20T12:16:21.308336-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.7.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:00.460332-07:00" updated="2015-06-05T11:46:13.913571-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:02.386038-07:00" updated="2015-03-20T12:14:16.277447-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:23.661729-07:00" updated="2015-03-20T12:02:17.614918-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:15.457451-07:00" updated="2015-03-20T12:16:22.479986-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.8.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:21.837106-07:00" updated="2015-06-05T11:46:18.381286-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:04.11186-07:00" updated="2015-03-20T12:14:16.055421-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:27.344285-07:00" updated="2015-06-05T11:45:45.31543-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.6.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:16.012958-07:00" updated="2015-03-20T12:16:22.096131-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.9.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:38:43.631735-07:00" updated="2015-06-05T11:44:47.784536-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:04.623001-07:00" updated="2015-03-20T12:14:15.363666-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:35:49.212457-07:00" updated="2015-06-05T11:45:50.405247-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.7.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:17.615174-07:00" updated="2015-03-20T12:16:21.614367-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:05.52791-07:00" updated="2015-03-20T12:14:15.538708-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:12.218792-07:00" updated="2015-06-05T11:45:54.921476-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:17.643922-07:00" updated="2015-03-20T12:02:17.763108-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.8.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:18.448588-07:00" updated="2015-03-20T12:16:21.765035-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.6.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:07.505164-07:00" updated="2015-03-20T12:14:15.890163-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:09.831927-07:00" updated="2015-03-20T12:16:21.911453-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:36:41.575924-07:00" updated="2015-06-05T11:45:59.806137-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:19.319405-07:00" updated="2015-03-20T12:02:17.302862-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.9.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:18.982369-07:00" updated="2015-03-20T12:16:22.640806-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.7.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:08.254264-07:00" updated="2015-03-20T12:14:15.170227-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:11.014695-07:00" updated="2015-03-20T12:16:22.289829-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:10.121879-07:00" updated="2015-06-05T11:46:05.048376-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:21.313164-07:00" updated="2015-03-20T12:02:17.162338-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.8.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:08.828177-07:00" updated="2015-03-20T12:14:15.718482-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1/1.3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:11.554084-07:00" updated="2015-03-20T12:16:21.454387-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1/1.6.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-06-05T11:37:37.375027-07:00" updated="2015-06-05T11:46:09.479789-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1/1.1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:00.795958-07:00" updated="2015-03-20T12:14:16.48757-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1/1.4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:22.755877-07:00" updated="2015-03-20T12:02:17.471071-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1.toc.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-05-13T15:52:16.11405-07:00" updated="2015-06-05T11:45:19.302409-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4/1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:17.550836-07:00" updated="2015-03-20T12:02:19.34935-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/5/1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-19T15:46:49.070871-07:00" updated="2015-03-19T16:04:24.275906-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/1/1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:17:09.691029-07:00" updated="2015-03-20T12:16:23.856278-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2/1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:19:00.690875-07:00" updated="2015-03-20T12:14:17.574088-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3/1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:40:42.501848-07:00" updated="2015-06-05T11:45:19.302409-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:18:56.56926-07:00" updated="2015-03-18T16:19:09.585773-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:40:39.277767-07:00" updated="2015-03-18T16:40:51.36737-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl/4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-03-18T16:20:14.165461-07:00" updated="2015-03-18T16:20:24.847401-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <node href="/eoljnl.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2015-01-06T07:21:29.390538-08:00" updated="2017-06-16T12:56:50.773121-07:00" deleted="2020-03-04T12:02:10.310305-08:00"/>
+  </node>
+  <svc-link deleted="true">
+    <atom:link rel="http://schema.highwire.org/Compound#child" href="/eoljnl.atom" c:role="http://schema.highwire.org/Journal" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:c="http://schema.highwire.org/Compound"/>
+  </svc-link>
+</report>
