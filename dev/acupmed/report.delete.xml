@@ -1,0 +1,2360 @@
+<report xml:base="http://atom-dev.highwire.org" at="2020-03-04T12:30:38.22604-08:00" xmlns:hw="org.highwire.hpp">
+  <node href="/acupmed/reply/2009/08/24/e138641115d98851.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2009-08-24T09:41:30.218429-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/reply/2009/08/24/e138641115d98851.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2009-08-24T09:41:30.218429-07:00" updated="2012-10-01T16:44:42.985995-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/75/embed/inline-graphic-1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.24861-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/75/embed/inline-graphic-1.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.24861-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/rel/226bc1388b8460e8.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:38.403711-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/rel/d3634464f267c1a4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:36.950468-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/3/rel/c9efffa25812b08a.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:36.950468-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/7/rel/f847686619063cf8.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:38.403711-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/property/link/Commentary.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-02-08T13:58:02.309061-08:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/property/link/rev_errata.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-02-08T13:58:02.294701-08:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/local/front-matter.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.615726-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.822124-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/local/front-matter.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.966519-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.720925-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:19.025341-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.92358-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/local/front-matter.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.966519-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.2/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:41.812113-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.1/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:41.112867-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.2/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:41.704438-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/local/front-matter.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.615726-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/212/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.651521-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:13.834311-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.64195-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:10.494372-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.505983-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:09.885611-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:14.988589-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365/F3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:31.67787-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.429175-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/property/link/related.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-02-08T13:58:02.290313-08:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/180/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:11.394723-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220/F3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:19.674401-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/F3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.426395-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.533162-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:10.381382-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/163/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.363518-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.183359-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/164/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.628634-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:26.53027-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.327719-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:14.288346-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/T5.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:09.038495-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/165/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:07.140055-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:19.571807-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:13.943464-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/205/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.755256-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.31824-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:10.162684-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.305582-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F6.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.73739-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211/F3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.235199-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.075386-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/167/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:07.60256-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:26.391222-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.225245-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:14.166605-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.886926-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:19.470032-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.209181-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:09.990861-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.198041-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F5.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.635209-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.401967-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.134431-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/214/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.052355-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/189/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:13.012391-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:14.04776-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.75388-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/T5.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:10.606518-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:10.275365-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.094151-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.533875-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.296966-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.03086-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/180/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:11.50417-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:29.114457-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:33.165393-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:32.715188-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F7.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:44.037926-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F6.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.622785-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51/T4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:38.147585-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:36.627599-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:35.786336-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.512428-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.088132-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F8.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:33.6323-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/58/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:38.797586-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:28.999327-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:30.573321-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:31.317492-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:33.054372-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:32.605331-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F6.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.931815-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F5.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.516953-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:38.025821-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:34.385919-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:35.668265-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.408138-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F7.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:33.519601-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:31.665839-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:28.883799-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4.cover-expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.089306-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:30.342208-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:32.94418-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:34.73653-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F5.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.826266-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.410976-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:37.887291-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:35.557774-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76/F3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.929723-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1.cover-expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:24.793843-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F6.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:33.407264-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:31.540893-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:32.834128-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:34.615672-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F4.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.72185-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.301765-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:37.748885-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:35.439576-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.821355-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:29.341446-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F5.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:33.27699-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:31.429122-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:30.462044-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/property/link/errata.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-02-08T13:58:02.288778-08:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F7.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.729457-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/61/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:39.518916-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:34.499414-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:35.900691-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.616706-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.196075-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/58/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:38.915889-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/F3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:29.228687-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.714828-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.1.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.269775-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/2/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:25.520511-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/F3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:28.133587-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/T1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:27.757091-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.495018-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/F2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:27.641934-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.1.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.315597-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F3.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.611218-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:27.524281-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/T3.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:28.011303-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.562862-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F4.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.730552-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.349829-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/T2.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:27.880288-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/1/F1.expansion.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:25.105172-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.609221-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.46603-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F3.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.642306-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.320319-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.524803-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.2.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:41.43538-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.2/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.298929-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.407717-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/focus/summary.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:36.73388-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.2.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:41.553268-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.1.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.951404-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F4.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.701055-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.1/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.14967-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F3.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.582282-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.1.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.995816-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F4.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.760057-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/180.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:11.225904-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/205.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.637288-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.618591-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.244194-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/165.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.997707-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:14.410559-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/214.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.932715-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.300329-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:09.703271-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/164/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.917487-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:14.665393-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/189.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.622244-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:13.137523-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.047869-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F4.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:54.902055-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.938497-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.374322-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365/F3.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:38.527151-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/167.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:07.391338-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/189.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.796479-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:13.486446-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:54.547315-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:11.620588-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/167/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.309516-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.91992-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.1/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.118207-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211/F3.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.764613-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:11.849296-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/F3.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.372382-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/212.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.471894-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/163/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.954332-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220/F3.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.419398-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.570261-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:14.786338-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/212/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.645583-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.105902-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/167.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:07.47175-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/189.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.887276-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F5.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.029966-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:13.656847-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.057963-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:54.668438-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.2/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.267305-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:07.717852-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:38.197324-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.1/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.180329-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:11.940622-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/212.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.526542-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:07.992131-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/180.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:10.724432-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/205.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.42473-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.502199-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.736512-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.112229-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/180.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:10.999703-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/205.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.585349-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:09.157421-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/165.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.897685-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.181572-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/205/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:50.914205-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/214.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.873723-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F6.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.15585-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/165/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.116281-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:09.505378-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.2/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.331258-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F3.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:54.784259-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.255843-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:38.363283-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.070849-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F7.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.933681-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.908691-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F4.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.194431-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:54.58284-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:29.931683-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:39.860863-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F4.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.570649-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/165/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.14719-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.143193-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:22.828901-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.706316-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.648509-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365/F3.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:38.485747-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.460493-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/61.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:39.046001-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.344262-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.213516-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:28.724748-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.088177-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F5.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:54.998886-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220/F3.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.390007-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:34.221873-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F6.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.869012-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/61.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:39.28401-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:35.280812-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F3.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.421522-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.027316-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/212/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.61577-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/61/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.494438-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.950857-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F6.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.185954-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.541136-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.531864-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76/F3.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.791565-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:38.317536-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/205/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:50.883825-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.225484-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.969271-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:30.700722-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F4.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:54.86998-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.270822-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:30.138128-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/163/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.924982-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.26256-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/167/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.279997-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.1.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.216086-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:36.027969-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:39.949251-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F5.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.316155-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.766604-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:31.016918-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/58.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:38.305235-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365/F3.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:38.56587-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F5.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.688566-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.405249-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:36.36894-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:22.948336-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F5.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.061006-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/73.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.043947-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220/F3.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.449027-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:38.154244-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.346875-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.331997-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/58.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:38.567568-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/61.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:39.38033-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F3.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:54.754485-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.705562-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.152642-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:31.800199-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F7.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.986918-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/F3.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.340335-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/212/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.676928-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.600204-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:38.406167-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/205/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:50.944147-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:32.220403-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F4.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.540682-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/F3.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.147888-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.286058-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/164/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.888659-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F4.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:54.934927-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.329852-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.550293-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/163/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.983441-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/167/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.339334-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.184696-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:54.639502-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.499887-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.549272-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:31.155461-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.207663-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F6.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.43912-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:36.476341-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211/F3.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.73537-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/73.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.093931-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:38.234896-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F6.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.815913-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/58.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:38.657591-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F3.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.075041-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F3.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:54.813619-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.21072-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F3.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.451183-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/F3.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.403279-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:54.518334-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:28.260381-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F8.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.103849-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/165/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.083802-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:32.415955-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.081875-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:33.757478-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/164/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.946721-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.589081-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.596668-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.028479-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:28.563185-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:34.868323-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F5.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.748137-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:54.697705-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:34.092615-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.302339-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.905694-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.275406-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:35.15706-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211/F3.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.794276-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.669332-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.501912-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:29.468095-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.890275-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F7.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.55674-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F6.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.125507-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.472416-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.138171-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.674894-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F6.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.837271-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/5.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:26.17889-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:22.978853-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.469152-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F7.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.964745-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/F3.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.117378-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.168834-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.214777-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.2.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:41.339406-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F5.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.659046-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.439499-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.491939-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F6.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.409469-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F7.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.016587-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:27.362573-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F5.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.632741-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:22.859679-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/1/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.824201-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F6.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.845853-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.996767-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F7.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.586818-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F4.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.540985-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.1.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.168112-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.737249-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/F2.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.864954-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F5.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.284379-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/5.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:26.268633-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F6.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.899073-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.533971-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/F3.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.178939-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F4.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.511032-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.316516-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F5.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.718504-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.875299-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76/F3.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.7615-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F6.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.469338-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F3.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.420968-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F4.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.164239-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F5.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.779752-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/7.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:26.596315-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.058199-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F3.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.39088-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F4.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.601427-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.639473-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F5.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.347063-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.302337-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/3.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:25.796255-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/F3.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.985683-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F3.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.044192-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F4.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.571045-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.377522-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.232333-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.937493-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76/F3.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.821939-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.272815-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F3.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.483228-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.518636-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F8.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.074195-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F4.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.225084-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/61/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.463393-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.183293-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/7.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:26.680816-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:22.917998-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F3.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.452157-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.1.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.898364-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F7.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.904182-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.105983-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.699927-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.154626-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9.abstract.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:26.835143-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.361952-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.429957-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/3.ref-stubs.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:25.874271-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F7.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.957404-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F3.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.105744-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.293335-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9.ref-links.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:27.219507-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:22.793731-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/2/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.018452-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.332691-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F6.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.786256-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F7.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.526949-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.58089-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.742941-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F8.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.133784-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/61/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.527076-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.24345-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/167.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:07.314256-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:19.356815-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/164.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.515512-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.25387-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/205.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.522205-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/219.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:19.183845-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/189.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.723484-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/2/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.048528-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/F3.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.954343-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/180.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:10.863302-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.2.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:41.240688-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/165.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.806651-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:13.294372-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/F2.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.834592-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:26.147048-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:14.541906-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/214.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.814949-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.1.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.850122-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/F3.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.01677-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.905278-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/1/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.793699-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:07.860699-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.629122-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.967021-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/F2.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.895874-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/163.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.247702-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:09.324063-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/2/F1.small.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.988642-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:11.744049-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/1/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.854135-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/212.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.406841-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/F1.large.jpg" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.774621-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.1.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:54.376138-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/219.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:19.137975-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.889552-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:13.186021-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:29.761638-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.2.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.200122-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:11.666511-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/61.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:39.192928-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/75.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.274739-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:26.076925-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/212.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.351306-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:14.458006-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:32.037762-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/167.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:07.253351-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/property/link.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-02-08T13:57:09.867599-08:00" updated="2011-02-08T13:58:02.294701-08:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:33.950053-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.849542-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.926741-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.284855-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:36.204707-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/205.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.466856-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.652032-07:00" updated="2011-03-15T15:17:55.407717-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:39.756112-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/79.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.098626-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.484958-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/189.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.667093-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:35.037018-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/165.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.740758-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.753951-07:00" updated="2011-03-15T15:17:55.524803-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/73.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:41.991533-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/58.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:38.447645-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.855404-07:00" updated="2011-03-15T15:17:55.642306-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/164.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.474174-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2/F4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.956881-07:00" updated="2011-03-15T15:17:55.760057-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:19.312562-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/F1.medium.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.577345-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/163.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.201945-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/214.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.767683-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:07.766205-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:28.442684-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/180.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:10.771467-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:09.213918-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:30.882966-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.1.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.0475-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/189.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.472417-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.088251-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/205.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:50.807936-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/167.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.213801-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/3.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:25.724206-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:39.644244-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:34.920389-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.418704-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:33.814764-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.2/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:41.740252-07:00" updated="2011-03-14T15:22:39.23482-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/7.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:26.50069-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:54.452137-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/58.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:38.358339-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.012337-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.406086-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.839969-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:38.039552-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:28.318438-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/75.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.2283-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:36.08466-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/1.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:24.973295-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/219.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.015647-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:51.473274-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/212.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.548457-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.15578-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:29.526943-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/163.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.860479-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.233423-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:30.755445-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/164.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:55.825282-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:31.859112-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/5.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:26.102098-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/73.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:41.938523-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/61.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:39.098216-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.2/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:41.632608-07:00" updated="2011-03-14T15:22:37.916091-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/2.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:25.279998-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/214.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.746078-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:52.821966-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/180.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:50.713182-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/165.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:53.017229-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/79.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.052615-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4.manifest.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:05.978161-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.1/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:41.040669-07:00" updated="2011-03-14T15:22:37.637129-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1.manifest.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:24.685652-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9.source.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:27.053197-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211/F3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.168004-07:00" updated="2011-03-15T15:17:53.794276-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/2.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:25.233797-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.813675-07:00" updated="2011-03-15T15:17:08.886926-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:19.5042-07:00" updated="2011-03-15T15:17:56.329852-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.135275-07:00" updated="2011-03-15T15:17:51.143193-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:09.919902-07:00" updated="2011-03-15T15:17:09.990861-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/214/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.982917-07:00" updated="2011-03-15T15:17:18.052355-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.005666-07:00" updated="2011-03-15T15:17:12.075386-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/1.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:24.918432-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/T5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.924419-07:00" updated="2011-03-15T15:17:09.038495-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220/F3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:19.606798-07:00" updated="2011-03-15T15:17:56.449027-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/79.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.653295-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/167/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:07.534004-07:00" updated="2011-03-15T15:17:53.339334-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.128245-07:00" updated="2011-03-15T15:17:15.198041-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.244607-07:00" updated="2011-03-15T15:17:51.275406-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/7.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:26.422717-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.156914-07:00" updated="2011-03-15T15:17:54.58284-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:10.091524-07:00" updated="2011-03-15T15:17:10.162684-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/61.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.392121-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.113563-07:00" updated="2011-03-15T15:17:12.183359-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/165/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:07.069963-07:00" updated="2011-03-15T15:17:53.14719-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/205/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.685817-07:00" updated="2011-03-15T15:17:50.944147-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.23522-07:00" updated="2011-03-15T15:17:15.305582-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/F3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.35337-07:00" updated="2011-03-15T15:17:51.403279-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.258391-07:00" updated="2011-03-15T15:17:54.697705-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:10.309909-07:00" updated="2011-03-15T15:17:10.381382-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/73.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.604332-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/58.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.890431-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/164/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.561809-07:00" updated="2011-03-15T15:17:55.946721-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.032665-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.604368-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.436231-07:00" updated="2011-03-15T15:17:12.505983-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.397874-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/163/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.296886-07:00" updated="2011-03-15T15:17:53.983441-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:26.245376-07:00" updated="2014-08-26T13:52:38.234896-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/180/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:11.323706-07:00" updated="2011-03-15T15:17:11.394723-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.360983-07:00" updated="2011-03-15T15:17:54.813619-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:10.422905-07:00" updated="2011-03-15T15:17:10.494372-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:09.813403-07:00" updated="2011-03-15T15:17:52.286058-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/5.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:26.024096-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:13.764695-07:00" updated="2011-03-15T15:17:13.834311-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.225717-07:00" updated="2011-03-15T15:17:51.600204-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:26.435838-07:00" updated="2014-08-26T13:52:38.406167-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/180/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:11.43387-07:00" updated="2011-03-15T15:17:11.50417-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.46248-07:00" updated="2011-03-15T15:17:54.934927-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/T5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:10.535128-07:00" updated="2011-03-15T15:17:10.606518-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.46176-07:00" updated="2011-03-15T15:17:08.533162-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:14.868799-07:00" updated="2011-03-15T15:17:51.969271-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/75.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.314548-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:10.201592-07:00" updated="2011-03-15T15:17:52.405249-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/212/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.578133-07:00" updated="2011-03-15T15:17:52.676928-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:13.978877-07:00" updated="2011-03-15T15:17:14.04776-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.247505-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.963397-07:00" updated="2011-03-15T15:17:53.531864-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.330992-07:00" updated="2011-03-15T15:17:51.766604-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:27.805769-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365/F3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:26.571528-07:00" updated="2014-08-26T13:52:38.56587-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.566883-07:00" updated="2011-03-15T15:17:55.061006-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.570363-07:00" updated="2011-03-15T15:17:08.64195-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.023729-07:00" updated="2011-03-15T15:17:52.088177-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.44538-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:22.709288-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:24.115132-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:14.096936-07:00" updated="2011-03-15T15:17:14.166605-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/3.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:25.654851-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.064155-07:00" updated="2011-03-15T15:17:53.648509-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:26.084913-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.361356-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207/F6.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.668653-07:00" updated="2011-03-15T15:17:55.185954-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9.full.html" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:26.898198-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:08.679872-07:00" updated="2011-03-15T15:17:08.75388-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/189/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.938712-07:00" updated="2011-03-15T15:17:13.012391-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:19.402965-07:00" updated="2011-03-15T15:17:56.21072-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:14.218939-07:00" updated="2011-03-15T15:17:14.288346-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:13.871656-07:00" updated="2011-03-15T15:17:52.950857-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/F3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:29.154201-07:00" updated="2011-03-14T15:22:29.096272-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.44638-07:00" updated="2011-03-14T15:22:37.09865-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/3.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.689362-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.336867-07:00" updated="2011-03-14T15:18:22.859679-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F7.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:33.44454-07:00" updated="2011-03-14T15:22:32.066813-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:34.42388-07:00" updated="2011-03-14T15:22:32.694611-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:35.364689-07:00" updated="2011-03-14T15:22:33.254131-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:36.664275-07:00" updated="2011-03-14T15:22:35.204518-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F6.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.552071-07:00" updated="2011-03-14T15:22:37.218552-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:30.387843-07:00" updated="2011-03-14T15:22:29.649302-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.44284-07:00" updated="2011-03-14T15:18:22.978853-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F8.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:33.556968-07:00" updated="2011-03-14T15:22:32.201861-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:34.54067-07:00" updated="2011-03-14T15:22:32.824627-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:35.481194-07:00" updated="2011-03-14T15:22:33.389899-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:32.761628-07:00" updated="2011-03-14T15:22:31.094797-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:37.814768-07:00" updated="2011-03-14T15:22:35.33381-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:29.038603-07:00" updated="2011-03-14T15:22:28.937679-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F7.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.658046-07:00" updated="2011-03-14T15:22:37.338833-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/5.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.783248-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.54811-07:00" updated="2011-03-14T15:18:23.105744-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:34.661291-07:00" updated="2011-03-14T15:22:32.957032-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:31.355767-07:00" updated="2011-03-14T15:22:30.266042-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:32.871229-07:00" updated="2011-03-14T15:22:31.221986-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:37.949072-07:00" updated="2011-03-14T15:22:35.470249-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:29.266394-07:00" updated="2011-03-14T15:22:29.230585-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.651694-07:00" updated="2011-03-14T15:18:23.225084-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.017502-07:00" updated="2011-03-14T15:22:36.619234-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:31.468301-07:00" updated="2011-03-14T15:22:30.398055-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:34.308494-07:00" updated="2011-03-14T15:22:32.558708-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:32.980864-07:00" updated="2011-03-14T15:22:31.540769-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.642861-07:00" updated="2011-03-14T15:22:39.813185-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51/T4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:38.07016-07:00" updated="2011-03-14T15:22:35.594327-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/7.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:28.968652-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:36.553306-07:00" updated="2011-03-14T15:22:34.078806-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.757101-07:00" updated="2011-03-14T15:18:23.347063-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.124801-07:00" updated="2011-03-14T15:22:36.738277-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:31.588084-07:00" updated="2011-03-14T15:22:30.530229-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:35.595177-07:00" updated="2011-03-14T15:22:33.525953-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:33.091767-07:00" updated="2011-03-14T15:22:31.679473-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.750234-07:00" updated="2011-03-14T15:22:39.935477-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/58/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:38.721037-07:00" updated="2011-03-14T15:22:35.908238-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/61/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:39.446524-07:00" updated="2011-03-14T15:22:36.321131-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:28.80555-07:00" updated="2011-03-14T15:22:28.651379-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:30.266033-07:00" updated="2011-03-14T15:22:29.520911-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F6.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.862227-07:00" updated="2011-03-14T15:18:23.469338-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.231331-07:00" updated="2011-03-14T15:22:36.859416-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/1.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.727936-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.089711-07:00" updated="2011-03-15T15:17:54.376138-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:35.712258-07:00" updated="2011-03-14T15:22:33.653875-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:33.202637-07:00" updated="2011-03-14T15:22:31.808084-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:31.244423-07:00" updated="2011-03-14T15:22:30.128883-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:32.534064-07:00" updated="2011-03-14T15:22:30.825761-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76/F3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.856906-07:00" updated="2011-03-14T15:22:40.06238-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:25.559678-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/58/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:38.84219-07:00" updated="2011-03-14T15:22:36.0492-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:28.922578-07:00" updated="2011-03-14T15:22:28.798159-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:30.500217-07:00" updated="2011-03-14T15:22:29.775165-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80/F7.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.967644-07:00" updated="2011-03-14T15:18:23.586818-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65/F4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.337733-07:00" updated="2011-03-14T15:22:36.976205-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/2.full.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:23.923286-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/215.2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:18.361131-07:00" updated="2011-03-15T15:17:55.25387-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:35.827798-07:00" updated="2011-03-14T15:22:33.784-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/F6.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:33.317034-07:00" updated="2011-03-14T15:22:31.936274-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:32.643113-07:00" updated="2011-03-14T15:22:30.954624-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/T3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:27.934407-07:00" updated="2011-03-14T15:22:28.185038-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:27.448645-07:00" updated="2011-03-14T15:22:27.559923-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:40.767399-07:00" updated="2011-03-14T15:23:16.496082-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/F2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:27.562681-07:00" updated="2011-03-14T15:22:27.725629-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/71.2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:41.154756-07:00" updated="2011-03-14T15:23:15.904644-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/F3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:28.056308-07:00" updated="2011-03-14T15:22:28.340767-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/2/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:25.350197-07:00" updated="2011-03-14T15:18:24.048528-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4.cover.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.512274-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/1/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:25.031708-07:00" updated="2011-03-14T15:18:23.854135-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/T1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:27.680152-07:00" updated="2011-03-14T15:22:27.880907-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1.cover.gif" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:29.859702-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9/T2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:27.804691-07:00" updated="2011-03-14T15:22:28.042298-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/180.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:10.646965-07:00" updated="2011-03-15T15:17:50.713182-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/207.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.811511-07:00" updated="2011-03-15T15:17:54.452137-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/191.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:13.059634-07:00" updated="2011-03-15T15:17:52.821966-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/200.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:14.333213-07:00" updated="2011-03-15T15:17:51.839969-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/211.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:16.773072-07:00" updated="2011-03-15T15:17:53.406086-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/167.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:07.178414-07:00" updated="2011-03-15T15:17:53.213801-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/219.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:19.060889-07:00" updated="2011-03-15T15:17:56.015647-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/189.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:12.544767-07:00" updated="2011-03-15T15:17:52.472417-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/212.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.270926-07:00" updated="2011-03-15T15:17:52.548457-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4/365.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-26T13:52:25.951236-07:00" updated="2014-08-26T13:52:38.039552-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/169.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:07.639551-07:00" updated="2011-03-15T15:17:51.012337-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/214.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:17.688184-07:00" updated="2011-03-15T15:17:52.746078-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/163.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.126559-07:00" updated="2011-03-15T15:17:53.860479-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/174.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:09.078686-07:00" updated="2011-03-15T15:17:52.15578-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/185.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:11.54379-07:00" updated="2011-03-15T15:17:51.473274-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/205.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:15.34695-07:00" updated="2011-03-15T15:17:50.807936-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/164.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.400769-07:00" updated="2011-03-15T15:17:55.825282-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/220.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:19.234322-07:00" updated="2011-03-15T15:17:56.088251-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/165.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.66485-07:00" updated="2011-03-15T15:17:53.017229-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/76.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.331284-07:00" updated="2011-03-14T15:23:16.064614-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/80.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:43.151905-07:00" updated="2011-03-14T15:22:40.324624-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/79.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.971164-07:00" updated="2011-03-14T15:22:40.188295-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/61.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:38.964459-07:00" updated="2011-03-14T15:23:16.212591-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/47.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:34.786217-07:00" updated="2011-03-14T15:23:17.283705-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/58.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:38.220013-07:00" updated="2011-03-14T15:23:16.813437-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/40.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:33.674477-07:00" updated="2011-03-14T15:23:15.561924-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1.toc.xml" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:24:20.574981-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/51.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:35.945559-07:00" updated="2011-03-14T15:23:17.462891-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/73.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:41.855233-07:00" updated="2011-03-14T15:23:16.95608-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/16.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:28.180394-07:00" updated="2011-03-14T15:22:28.499167-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/27.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:30.619655-07:00" updated="2011-03-14T15:22:29.928407-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4.toc.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:56.679411-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1.toc.pdf" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:18:30.032029-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:06.017898-07:00" updated="2011-03-15T15:17:56.577345-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/F1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:24.728695-07:00" updated="2011-03-14T15:18:29.926741-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/21.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:29.385532-07:00" updated="2011-03-14T15:23:16.649424-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/75.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:42.146725-07:00" updated="2011-03-14T15:23:16.353557-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/32.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:31.717501-07:00" updated="2011-03-14T15:22:30.682401-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/65.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:39.560216-07:00" updated="2011-03-14T15:22:36.484461-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/2.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:25.148589-07:00" updated="2011-03-14T15:22:26.474128-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/3.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:25.574251-07:00" updated="2011-03-14T15:22:26.799282-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/5.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:25.939178-07:00" updated="2011-03-14T15:22:27.040782-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/7.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:26.340038-07:00" updated="2011-03-14T15:23:15.733205-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:24.8353-07:00" updated="2011-03-14T15:22:26.153194-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1/9.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:26.748819-07:00" updated="2011-03-14T15:23:17.12901-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32/4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-25T17:01:59.776533-07:00" updated="2014-08-26T13:52:57.696729-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29/1.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:17:24.56023-07:00" updated="2011-03-14T15:24:20.574981-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28/4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:17:05.907017-07:00" updated="2011-11-15T12:28:40.462349-08:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/27.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2009-08-04T23:13:13.852721-07:00" updated="2010-09-28T16:06:57.51196-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/20.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2009-09-23T16:40:08.281452-07:00" updated="2010-10-13T20:51:11.635699-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/28.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-15T15:16:33.542759-07:00" updated="2013-07-03T12:41:46.34781-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/10.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2009-09-23T16:36:15.545599-07:00" updated="2010-09-28T15:48:51.611854-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/32.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2014-08-25T17:01:54.981497-07:00" updated="2014-08-25T17:02:05.924168-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/29.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2011-03-14T15:16:45.573216-07:00" updated="2013-07-03T12:41:46.34781-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/15.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2009-09-23T16:38:22.891249-07:00" updated="2010-09-22T18:19:26.304929-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/26.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2009-08-04T23:08:59.089522-07:00" updated="2010-10-05T14:28:22.924579-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed/4.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2009-09-23T16:42:58.107477-07:00" updated="2010-09-30T17:01:14.705839-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <node href="/acupmed.atom" deleted="true">
+    <hw:resource-meta status="deleted" created="2009-07-07T17:36:49.220086-07:00" updated="2017-06-16T12:54:52.334648-07:00" deleted="2020-03-04T12:30:38.22604-08:00"/>
+  </node>
+  <svc-link deleted="true">
+    <atom:link rel="http://schema.highwire.org/Compound#child" href="/acupmed.atom" c:role="http://schema.highwire.org/Journal" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:c="http://schema.highwire.org/Compound"/>
+  </svc-link>
+</report>
