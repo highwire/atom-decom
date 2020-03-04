@@ -35,7 +35,7 @@ let
   $resource-meta-new := element{'hw:resource-meta'}{attribute{'status'}{'deleted'},$resource-meta-old/(@created,@updated),attribute{'deleted'}{current-dateTime()}},
   (: find the things that are not the hw:resource-meta to delete :)
   $delete := $f/*[not(. is $resource-meta-old)]
-order by $uri
+order by string-length($uri) descending
 return
   <node href="{$uri}" deleted="{not($dry-run)}">{
     if ($dry-run)
