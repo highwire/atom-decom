@@ -1,8 +1,13 @@
+import module namespace dba = "org.highwire.hpp.dba-update" at "/reprocessing/lib/lib-dba-update.xqy";
+
 declare namespace hw="org.highwire.hpp";
+declare namespace atom="http://www.w3.org/2005/Atom";
 
 declare variable $server as xs:string external;
 declare variable $corpus as xs:string external;
 declare variable $dry-run as xs:boolean := true();
+
+declare variable $svc-atom as xs:string := '/svc.atom';
 
 declare variable $directory as xs:string := concat('/',$corpus,'/');
 declare variable $corpus-atom as xs:string := concat('/',$corpus,'.atom');
@@ -31,5 +36,20 @@ return
       xdmp:node-replace($resource-meta-old,$resource-meta-new),
       $resource-meta-new
     )
-  }</node>
+  }</node>,
+let
+  $corpus-link as element(atom:link)? := doc($svc-atom)/hw:doc/atom:entry/atom:link[@rel eq 'http://schema.highwire.org/Compound#child'][@href eq $corpus-atom]
+return
+  if (exists($corpus-link))
+  then 
+    <svc-link deleted="{not($dry-run)}">{
+    if ($dry-run)
+    then $corpus-link
+    else (
+      dba:update-metadata($svc-atom),
+      xdmp:node-delete($corpus-link),
+      $corpus-link
+    )
+    }</svc-link>
+  else ()
 }</report>
