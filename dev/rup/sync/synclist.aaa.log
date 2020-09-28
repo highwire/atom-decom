@@ -1,8 +1,3 @@
-error on send to fa-sassfs-dev-04.highwire.org:17000 for 99690047-f6e3-11ea-bd37-0050568c84b2: unhandled disposition line: Unrelease program reported failure
-error on send to fa-sassfs-dev-01.highwire.org:17000 for 99690047-f6e3-11ea-bd37-0050568c84b2: unhandled disposition line: Unrelease program reported failure
-error on send to fa-sassfs-dev-03.highwire.org:17000 for 99690047-f6e3-11ea-bd37-0050568c84b2: unhandled disposition line: Unrelease program reported failure
-error on send to fa-sassfs-dev-02.highwire.org:17000 for 99690047-f6e3-11ea-bd37-0050568c84b2: unhandled disposition line: Unrelease program reported failure
-error on send to fa-sassfs-dev-05.highwire.org:17000 for 99690047-f6e3-11ea-bd37-0050568c84b2: unhandled disposition line: Unrelease program reported failure
-http://content-sync-dev.highwire.org:8080/transaction/99690047-f6e3-11ea-bd37-0050568c84b2
-FAILURE
-0 of 5000 nodes processed successfully
+http://content-sync-dev.highwire.org:8080/transaction/105f9cf2-f777-11ea-bd37-0050568c84b2
+SUCCESS
+5000 nodes processed successfully
